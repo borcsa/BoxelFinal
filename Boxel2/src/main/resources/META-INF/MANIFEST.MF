@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+Implementation-Title: flink-java-examples
+Implementation-Version: 0.10.0
+Archiver-Version: Plexus Archiver
+Built-By: tc
+Specification-Vendor: The Apache Software Foundation
+Specification-Title: fu-berlin-largedataanalysis
+Implementation-Vendor-Id: org.apache.flink
+program-class: basicanalysis.PlanPony
+Implementation-Vendor: The Apache Software Foundation
+Created-By: Apache Maven 3.2.3
+Build-Jdk: 1.8.0_20
+Specification-Version: 0.10.0
+

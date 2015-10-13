@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <plugins>
+      <plugin path="$PROJECT_DIR$/../paradise_2.10.4-2.0.1.jar" />
+    </plugins>
+    <profile name="Maven 1" modules="Boxel2" />
+  </component>
+</project>
